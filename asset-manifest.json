@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/deploy-test-final/static/css/main.b96ae4cc.css",
+    "main.js": "/deploy-test-final/static/js/main.357a9e22.js",
+    "index.html": "/deploy-test-final/index.html",
+    "main.b96ae4cc.css.map": "/deploy-test-final/static/css/main.b96ae4cc.css.map",
+    "main.357a9e22.js.map": "/deploy-test-final/static/js/main.357a9e22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b96ae4cc.css",
+    "static/js/main.357a9e22.js"
+  ]
+}
